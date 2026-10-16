@@ -1,0 +1,45 @@
+{
+  "name": "@kurtfrancisco/agent-guard",
+  "version": "0.1.0",
+  "description": "Runtime guardrails for Claude Code, Cursor, and Codex — block destructive shell, secret writes, exfil, force-push, and out-of-scope edits",
+  "license": "MIT",
+  "author": "Kurt Francisco <Fpavia111@gmail.com>",
+  "bin": {
+    "agent-guard": "bin/agent-guard.js"
+  },
+  "main": "src/index.js",
+  "files": [
+    "bin/",
+    "src/",
+    "LICENSE",
+    "README.md"
+  ],
+  "scripts": {
+    "test": "node --test test/*.test.js",
+    "check": "node bin/agent-guard.js check"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fpavia111-creator/agent-guard.git"
+  },
+  "bugs": {
+    "url": "https://github.com/fpavia111-creator/agent-guard/issues"
+  },
+  "homepage": "https://github.com/fpavia111-creator/agent-guard#readme",
+  "keywords": [
+    "claude-code",
+    "cursor",
+    "codex",
+    "hooks",
+    "guardrails",
+    "security",
+    "agent",
+    "pretooluse"
+  ],
+  "publishConfig": {
+    "access": "public"
+  }
+}
