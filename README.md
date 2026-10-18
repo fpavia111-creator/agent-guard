@@ -65,6 +65,9 @@ agent-guard init --agent all --profile strict
 
 **$11 one-time** at launch (will rise later). **Team: $11 per seat**.
 
+**[Buy agent-guard Pro: $11 one-time →](https://buy.stripe.com/9B614p8XLe7E7Oj0md5AQ03)**
+Payment is handled by Stripe. Your license key arrives by email; set `AGENT_GUARD_LICENSE_KEY`.
+
 Includes:
 
 - Extra guards (`sudo`, privileged Docker, world-writable `chmod`, symlink escape, download-then-exec, `git config` hooksPath)
