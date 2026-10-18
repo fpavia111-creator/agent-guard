@@ -1,3 +1,7 @@
+> **Moved:** this project has been renamed to **Talos of Humans** and now lives at https://github.com/fpavia111-creator/talos.
+>
+> Install the new package: `npm i @kurtfrancisco/talos`. `@kurtfrancisco/agent-guard` is deprecated and gets no further updates; the old commands, env vars and license keys still work in Talos of Humans.
+
 # agent-guard
 
 **Runtime guardrails for AI coding agents.** Hooks for [Claude Code](https://code.claude.com/docs/en/hooks), [Cursor](https://cursor.com/docs/agent/hooks), and [Codex](https://learn.chatgpt.com/docs/hooks) that block dangerous actions before they run.
