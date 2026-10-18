@@ -4,7 +4,7 @@
 
 > npm name `agent-guard` is taken (unrelated cost-protection tool), so this package is **`@kurtfrancisco/agent-guard`**.
 
-Free MIT core · Pro **launch price $11** one-time (will rise later) · Team **$11 per seat**
+Free MIT core · Pro **launch price $11** one-time (will rise later)
 
 ## What it blocks (free core — 5 guards)
 
@@ -63,7 +63,7 @@ agent-guard init --agent all --profile strict
 
 ## Pro (launch price $11)
 
-**$11 one-time** at launch (will rise later). **Team: $11 per seat**.
+**$11 one-time** at launch (will rise later).
 
 **[Buy agent-guard Pro: $11 one-time →](https://buy.stripe.com/9B614p8XLe7E7Oj0md5AQ03)**
 Payment is handled by Stripe. Your license key arrives by email; set `AGENT_GUARD_LICENSE_KEY`.

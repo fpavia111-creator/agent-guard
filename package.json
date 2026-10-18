@@ -1,6 +1,6 @@
 {
   "name": "@kurtfrancisco/agent-guard",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Runtime guardrails for Claude Code, Cursor, and Codex — block destructive shell, secret writes, exfil, force-push, and out-of-scope edits",
   "license": "MIT",
   "author": "Kurt Francisco <Fpavia111@gmail.com>",
